@@ -1,35 +1,121 @@
-  
-  .layout {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  /* Reset de base */
+/* Reset de base */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
-  
-  body {
+/* Global Reset */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: #f4f4f4;
-  }
-  
-  .container {
+    background-color: #f9f9f9;
+}
+
+/* Layout Container */
+.layout {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 20px;
+}
+
+/* Header and Navigation */
+header {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    background-color: #fff;
+}
+
+header nav a {
+    margin-right: 15px;
+    color: #3498db;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content Area */
+main {
+    padding: 20px 0;
+}
+
+/* Article Cards */
+.article-card {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    transition: box-shadow 0.3s ease;
+}
+
+.article-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.article-card h2 {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+.article-card p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Footer */
+footer {
+    padding: 20px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+/* Boutons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+/* Responsivité */
+@media (max-width: 768px) {
+    .layout {
+        padding: 10px;
+    }
+    header nav a {
+        display: block;
+        margin-bottom: 10px;
+    }
+}
+.layout {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
   }
   
-  /* Styles généraux */
-  h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 15px;
-  }
-  
+    
   a {
     color: #3498db;
     text-decoration: none;
@@ -43,32 +129,7 @@
     max-width: 100%;
     height: auto;
   }
-  
-  /* Styles pour les boutons */
-  .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  .btn:hover {
-    background-color: #2980b9;
-  }
-  
-  /* Styles pour les formulaires */
-  input, textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
-  
+    
   /* Styles pour les alertes */
   .alert {
     padding: 15px;
