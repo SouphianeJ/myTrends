@@ -12,10 +12,12 @@ export default function Home({ articles }) {
 }
 
 export async function getStaticProps() {
-  const articles = getAllArticles()
-  return {
-    props: {
-      articles,
-    },
+    const articles = getAllArticles();
+    console.log("Articles récupérés pour la page d'accueil :", articles.map(a => a.slug));
+    return {
+      props: {
+        articles,
+      },
+    };
   }
-}
+  

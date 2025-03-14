@@ -4,17 +4,21 @@ import path from 'path';
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 
 export function getAllArticles() {
-  try {
-    const fileNames = fs.readdirSync(articlesDirectory);
-    return fileNames.map((fileName) => {
-      const slug = fileName.replace(/\.json$/, '');
-      return getArticleBySlug(slug);
-    });
-  } catch (error) {
-    console.error("Erreur lors de la lecture du répertoire des articles :", error);
-    return []; // Retourner un tableau vide en cas d'erreur
+    try {
+      const fileNames = fs.readdirSync(articlesDirectory);
+      console.log("Fichiers trouvés :", fileNames);
+      return fileNames.map((fileName) => {
+        const slug = fileName.replace(/\.json$/, '');
+        const article = getArticleBySlug(slug);
+        console.log("Article chargé :", slug, article ? "succès" : "échec");
+        return article;
+      }).filter(Boolean); // Filtrer les articles null
+    } catch (error) {
+      console.error("Erreur lors de la lecture du répertoire des articles :", error);
+      return [];
+    }
   }
-}
+  
 
 export function getArticleBySlug(slug) {
   try {
