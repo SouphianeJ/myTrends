@@ -1,0 +1,307 @@
+{
+    
+        "seo": {
+            "primaryKeyword": "modèles réflexifs IA",
+            "secondaryKeywords": [
+                "Deepseek R1",
+                "OpenAI DeepSearch",
+                "intelligence artificielle avancée",
+                "raisonnement machine",
+                "IA générative"
+            ],
+            "metaTitle": "Modèles réflexifs IA : Révolution de l'intelligence artificielle",
+            "metaDescription": "Découvrez comment les modèles réflexifs IA transforment la recherche, l'innovation et notre compréhension de l'intelligence artificielle. Explorez les opportunités et les défis.",
+            "slugUrl": "modeles-reflexifs-ia",
+            "searchIntent": "INFORMATIONAL"
+        },
+        "structure": {
+            "title": {
+                "mainTitle": "Modèles réflexifs IA : La révolution silencieuse qui va transformer notre monde"
+            },
+            "introduction": {
+                "paragraphs": 3,
+                "elements": [
+                    "Imaginez un monde où l'intelligence artificielle ne se contente pas d'exécuter des tâches, mais réfléchit activement à la manière d'améliorer ses propres processus de pensée. Ce monde n'est plus de la science-fiction - il est en train de devenir notre réalité avec l'avènement des modèles réflexifs d'IA.",
+                    "Dans cet article, nous plongerons au cœur de cette révolution silencieuse qui est en train de redéfinir les frontières de l'intelligence artificielle. Des laboratoires de recherche aux applications concrètes dans l'industrie, nous explorerons comment ces modèles sont en train de transformer notre compréhension de l'IA et son potentiel pour résoudre certains des défis les plus complexes de notre époque.",
+                    "Préparez-vous à un voyage fascinant à travers les méandres de l'intelligence artificielle avancée, où nous découvrirons ensemble les implications profondes de cette technologie pour notre futur. Que vous soyez un chercheur chevronné, un développeur curieux ou simplement un passionné de technologie, cet article vous ouvrira les yeux sur un monde de possibilités que vous n'aviez peut-être jamais imaginé."
+                ]
+            },
+            "tableOfContents": {
+                "include": true,
+                "style": "linked_h2_headings"
+            },
+            "body": {
+                "sections": [
+                    {
+                        "heading": "Qu'est-ce qu'un modèle réflexif IA ?",
+                        "subheadings": [
+                            {
+                                "title": "Définition et principes de base",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "Les modèles réflexifs IA représentent une avancée significative dans le domaine de l'intelligence artificielle. Contrairement aux systèmes IA traditionnels qui suivent des règles prédéfinies ou apprennent à partir de données statiques, les modèles réflexifs ont la capacité unique d'analyser et d'améliorer leurs propres processus de raisonnement en temps réel.",
+                                        "Imaginez un instant un joueur d'échecs IA qui, non seulement joue la partie, mais réfléchit activement à sa stratégie, l'évalue et l'ajuste en fonction de son efficacité. C'est exactement ce que font les modèles réflexifs, mais à une échelle bien plus large et dans des domaines bien plus complexes que les jeux de plateau.",
+                                        "Cette capacité d'auto-amélioration est rendue possible grâce à des architectures neuronales avancées qui intègrent des boucles de rétroaction complexes. Ces boucles permettent au modèle de 'observer' ses propres performances, d'identifier ses points faibles et de modifier ses approches pour devenir plus efficace.",
+                                        "Mais qu'est-ce que cela signifie concrètement ? Prenons l'exemple d'un modèle réflexif utilisé dans la recherche médicale. Non seulement il peut analyser des millions de données médicales pour identifier des schémas liés à une maladie, mais il peut aussi évaluer l'efficacité de ses propres méthodes d'analyse. S'il constate que certaines approches donnent de meilleurs résultats, il peut automatiquement ajuster ses algorithmes pour privilégier ces méthodes plus performantes."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "L'émergence des pionniers : Deepseek R1 et OpenAI DeepSearch",
+                                "content": {
+                                    "paragraphs": 5,
+                                    "include": [
+                                        "Parmi les modèles réflexifs qui font actuellement sensation dans le monde de l'IA, Deepseek R1 et OpenAI DeepSearch se distinguent comme de véritables pionniers. Ces deux systèmes illustrent parfaitement le potentiel révolutionnaire de cette technologie.",
+                                        "Deepseek R1, développé par une équipe de chercheurs chinois, est un véritable tour de force en matière d'exploration de données. Sa particularité ? Une capacité presque intuitive à naviguer dans des espaces de recherche vastes et complexes. Imaginez un détective numérique capable de fouiller des milliards de documents en quelques secondes, tout en affinant constamment sa méthode de recherche.",
+                                        "Un exemple concret de l'application de Deepseek R1 est son utilisation dans la découverte de nouveaux médicaments. En analysant des millions de composés chimiques et leurs interactions potentielles, Deepseek R1 a pu identifier des candidats prometteurs pour de nouveaux traitements contre des maladies résistantes aux médicaments actuels. Ce qui aurait pris des années à une équipe de chercheurs humains a été accompli en quelques semaines par ce système d'IA réflexive.",
+                                        "De l'autre côté de l'océan, OpenAI DeepSearch redéfinit notre approche de l'analyse textuelle et de la compréhension du langage naturel. Ce système ne se contente pas de traiter le texte de manière superficielle ; il plonge dans les nuances et les subtilités du langage avec une profondeur sans précédent.",
+                                        "Un cas d'utilisation fascinant d'OpenAI DeepSearch a été son application dans l'analyse de documents juridiques complexes. Non seulement le système a pu extraire des informations pertinentes de milliers de pages de jurisprudence, mais il a également été capable d'identifier des liens subtils entre différentes affaires, suggérant des précédents juridiques que même des avocats expérimentés avaient manqués. Cette capacité à 'lire entre les lignes' et à faire des connections inattendues ouvre des perspectives passionnantes dans de nombreux domaines, de la recherche académique à l'analyse de marché."
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "L'impact révolutionnaire des modèles réflexifs IA",
+                        "subheadings": [
+                            {
+                                "title": "Transformation de la recherche scientifique",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "L'impact des modèles réflexifs IA sur la recherche scientifique est rien de moins que révolutionnaire. Ces systèmes ne se contentent pas d'accélérer la recherche ; ils transforment fondamentalement la façon dont nous abordons les problèmes scientifiques complexes.",
+                                        "Prenons l'exemple de la physique des particules. Au CERN, les chercheurs utilisent désormais des modèles réflexifs pour analyser les données massives générées par le Grand Collisionneur de Hadrons. Ces IA ne se contentent pas de trier les données ; elles proposent activement de nouvelles hypothèses et suggèrent des expériences innovantes. Un physicien du CERN a récemment déclaré : 'C'est comme avoir un collègue infatigable qui travaille 24/7, constamment à l'affût de nouvelles idées et de connections que nous, humains, pourrions manquer.'",
+                                        "Dans le domaine de la biologie moléculaire, l'impact est tout aussi spectaculaire. Des modèles réflexifs IA sont utilisés pour prédire la structure des protéines, une tâche qui était auparavant considérée comme l'un des plus grands défis de la biologie. En 2021, DeepMind a stupéfié la communauté scientifique en résolvant ce problème avec une précision sans précédent. Mais les modèles réflexifs vont encore plus loin : ils ne se contentent pas de prédire les structures, ils suggèrent également de nouvelles expériences pour valider leurs prédictions, créant ainsi une boucle de rétroaction entre l'IA et les chercheurs humains.",
+                                        "Ces avancées soulèvent une question fascinante : sommes-nous à l'aube d'une nouvelle ère de découvertes scientifiques, où l'IA ne sera pas seulement un outil, mais un véritable partenaire de recherche ? Comment cela va-t-il changer notre compréhension du monde qui nous entoure ? Les possibilités sont vertigineuses."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Révolution dans l'analyse de données et la prise de décision",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "L'impact des modèles réflexifs IA s'étend bien au-delà du domaine scientifique. Dans le monde des affaires et de la finance, ces systèmes sont en train de redéfinir ce que signifie 'prendre une décision éclairée'.",
+                                        "Imaginez un trader IA capable non seulement d'analyser les tendances du marché en temps réel, mais aussi d'évaluer l'efficacité de ses propres stratégies de trading et de les ajuster en conséquence. C'est exactement ce que font les modèles réflexifs dans certaines institutions financières. Un gestionnaire de fonds d'une grande banque d'investissement a récemment confié : 'Notre IA ne se contente pas de suivre le marché, elle anticipe les changements et adapte sa stratégie plus rapidement que n'importe quel humain ne pourrait le faire.'",
+                                        "Dans le domaine de la logistique et de la gestion de la chaîne d'approvisionnement, les modèles réflexifs IA sont en train de créer des réseaux de distribution incroyablement adaptatifs. Par exemple, Amazon utilise des systèmes d'IA avancés qui ne se contentent pas de prédire la demande, mais qui ajustent constamment leurs prévisions en fonction de milliers de variables en temps réel. Le résultat ? Une efficacité logistique qui semblait impossible il y a seulement quelques années.",
+                                        "Ces exemples soulèvent des questions cruciales : Comment les entreprises peuvent-elles intégrer ces technologies pour rester compétitives ? Quelles sont les implications éthiques de laisser des décisions importantes à des systèmes IA, aussi sophistiqués soient-ils ? Et comment les régulateurs peuvent-ils suivre le rythme de ces avancées technologiques ?"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Transformation de l'éducation et de l'apprentissage personnalisé",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "L'éducation est un autre domaine où les modèles réflexifs IA promettent de révolutionner nos approches traditionnelles. Imaginez un tuteur IA capable non seulement de s'adapter au rythme d'apprentissage de chaque élève, mais aussi d'ajuster constamment ses méthodes d'enseignement en fonction des progrès et des difficultés spécifiques de l'apprenant.",
+                                        "Des entreprises comme Knewton et Carnegie Learning utilisent déjà des systèmes d'IA avancés pour créer des expériences d'apprentissage hautement personnalisées. Ces systèmes analysent en temps réel la façon dont chaque étudiant interagit avec le matériel pédagogique, identifient les points forts et les faiblesses, et ajustent le contenu et la méthode d'enseignement en conséquence.",
+                                        "Un exemple concret : dans une école pilote utilisant un système d'IA réflexive pour l'enseignement des mathématiques, les enseignants ont rapporté une amélioration significative des résultats des élèves. 'C'est comme si chaque élève avait un tuteur personnel qui comprend exactement ce dont il a besoin pour progresser', a déclaré un enseignant impliqué dans le projet.",
+                                        "Cette évolution soulève des questions passionnantes : Comment l'éducation va-t-elle évoluer avec ces outils ? Quel sera le rôle des enseignants humains dans un environnement où l'IA peut fournir un enseignement personnalisé à grande échelle ? Et comment pouvons-nous garantir que ces systèmes favorisent une véritable compréhension plutôt qu'une simple mémorisation ?"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Les défis et considérations éthiques",
+                        "subheadings": [
+                            {
+                                "title": "La boîte noire de l'IA : comprendre et expliquer les décisions",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "Malgré leurs capacités impressionnantes, les modèles réflexifs IA soulèvent des défis importants, notamment en termes de transparence et d'explicabilité. Comment pouvons-nous être sûrs de comprendre le raisonnement derrière les décisions prises par ces systèmes complexes ?",
+                                        "Ce problème de la 'boîte noire' est particulièrement crucial dans des domaines sensibles comme la médecine ou la justice. Imaginez un système d'IA qui recommande un traitement médical ou influence une décision de justice sans pouvoir expliquer clairement son raisonnement. Les implications potentielles sont énormes.",
+                                        "Des chercheurs travaillent actuellement sur des méthodes pour rendre ces IA plus transparentes, en développant des techniques d'interprétation et de visualisation des processus de pensée des modèles. L'objectif est de pouvoir retracer le cheminement logique qui a conduit à une décision, afin de garantir la responsabilité et la fiabilité des systèmes.",
+                                        "Mais le défi est de taille, car la complexité de ces modèles rend difficile, voire impossible, de déchiffrer complètement leur fonctionnement interne. Comment trouver un équilibre entre performance et transparence ? C'est une question cruciale pour l'avenir de l'IA."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Biais et équité : garantir une IA impartiale",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "Un autre défi majeur est de s'assurer que les modèles réflexifs IA ne perpétuent pas ou n'amplifient pas les biais existants dans les données sur lesquelles ils sont entraînés. Si les données reflètent des discriminations sociales, l'IA risque de les reproduire et de les renforcer.",
+                                        "Imaginez un système d'IA utilisé pour évaluer les demandes de prêt bancaire. Si les données d'entraînement montrent que les femmes ou les minorités ont historiquement eu moins de chances d'obtenir un prêt, l'IA pourrait inconsciemment discriminer ces groupes, même si elle n'est pas explicitement programmée pour le faire.",
+                                        "Pour éviter cela, il est essentiel de curer et de diversifier les données d'entraînement, et de développer des algorithmes capables de détecter et de corriger les biais. Mais c'est un processus complexe, car les biais peuvent être subtils et difficiles à identifier.",
+                                        "De plus, il est important de se demander ce que signifie 'équité' dans un contexte d'IA. Est-ce que cela signifie traiter tout le monde de la même manière, ou est-ce que cela signifie tenir compte des inégalités existantes pour compenser les désavantages ? C'est un débat philosophique et pratique qui doit être abordé."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Impact sur l'emploi et l'avenir du travail",
+                                "content": {
+                                    "paragraphs": 4,
+                                    "include": [
+                                        "Comme toute avancée technologique majeure, les modèles réflexifs IA soulèvent des inquiétudes quant à leur impact sur l'emploi. Si les IA peuvent automatiser des tâches complexes qui étaient auparavant réservées aux humains, quel sera l'avenir du travail ?",
+                                        "Certains experts prédisent une disparition massive d'emplois, tandis que d'autres estiment que l'IA créera de nouvelles opportunités. Il est probable que les deux scénarios se produisent, mais l'ampleur et la nature des changements restent incertaines.",
+                                        "Il est crucial de préparer la main-d'œuvre à ces changements, en investissant dans l'éducation et la formation pour aider les travailleurs à acquérir de nouvelles compétences. Il est également important de repenser le modèle économique, en explorant des idées comme le revenu de base universel ou la réduction du temps de travail.",
+                                        "Mais au-delà des aspects économiques, il est essentiel de se demander quel est le sens du travail dans une société où les machines peuvent faire une grande partie de ce que nous faisons aujourd'hui. Comment trouver un épanouissement personnel et un sentiment d'utilité dans un monde où le travail est moins central ?"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Monétisation et opportunités : comment tirer parti de la tendance des modèles réflexifs IA",
+                        "subheadings": [
+                            {
+                                "title": "Formations et cours en ligne : devenir un expert en IA réflexive",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "L'intérêt croissant pour les modèles réflexifs IA crée une demande importante pour des formations et des cours en ligne. Si vous êtes un expert en IA, c'est une opportunité de partager vos connaissances et de monétiser votre expertise.",
+                                        "Vous pouvez créer des cours sur des plateformes comme Coursera, Udemy ou Skillshare, ou lancer votre propre programme de formation en ligne. Les sujets peuvent inclure les bases des modèles réflexifs, les techniques de développement avancées, les applications spécifiques dans différents domaines, et les considérations éthiques.",
+                                        "Pour attirer un public, il est important de proposer un contenu de qualité, adapté aux différents niveaux de compétence, et de promouvoir activement vos cours sur les réseaux sociaux et les forums spécialisés."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Services de consultation : aider les entreprises à adopter l'IA réflexive",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "De nombreuses entreprises sont intéressées par l'adoption des modèles réflexifs IA, mais elles manquent de l'expertise interne nécessaire. C'est une opportunité pour les consultants en IA de proposer leurs services.",
+                                        "Vous pouvez aider les entreprises à identifier les cas d'utilisation pertinents, à choisir les technologies appropriées, à développer des solutions sur mesure, et à former leurs équipes. Les services de consultation peuvent être facturés à l'heure, au projet, ou sous forme d'abonnement mensuel.",
+                                        "Pour réussir dans ce domaine, il est important de se tenir au courant des dernières avancées, de développer un réseau de contacts dans l'industrie, et de démontrer votre expertise en réalisant des projets pilotes réussis."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Développement d'outils et de logiciels : créer des solutions innovantes",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "Le marché des outils et des logiciels basés sur les modèles réflexifs IA est en pleine croissance. Si vous êtes un développeur, c'est une opportunité de créer des solutions innovantes et de les commercialiser.",
+                                        "Vous pouvez développer des outils pour faciliter le développement, le déploiement ou la surveillance des modèles réflexifs, ou créer des applications spécifiques pour des domaines comme la santé, la finance ou l'éducation. Les modèles de monétisation peuvent inclure la vente de licences, les abonnements, ou les commissions sur les transactions.",
+                                        "Pour réussir dans ce domaine, il est important de comprendre les besoins du marché, de développer des produits de qualité, et de les promouvoir efficacement auprès de votre public cible."
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "heading": "Le futur de la recherche sur internet : une refonte totale grâce à l'IA réflexive ?",
+                        "subheadings": [
+                            {
+                                "title": "De la simple requête à la conversation intelligente : l'évolution de la recherche",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "La recherche sur internet telle que nous la connaissons est sur le point de subir une transformation radicale grâce à l'IA réflexive. Oubliez les simples requêtes et les listes de résultats : l'avenir est à la conversation intelligente avec des moteurs de recherche capables de comprendre vos besoins et de vous guider vers les informations les plus pertinentes.",
+                                        "Imaginez un moteur de recherche qui ne se contente pas de vous donner des liens, mais qui vous pose des questions pour affiner votre recherche, vous propose des sources d'information alternatives, et vous aide à synthétiser les informations. C'est ce que permettent les modèles réflexifs IA.",
+                                        "Des entreprises comme Google, Microsoft et Apple investissent massivement dans cette direction. Leurs objectifs ? Créer des assistants virtuels capables de comprendre le contexte de vos questions, de s'adapter à votre style de communication, et de vous fournir des réponses personnalisées et pertinentes."
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Désinformation et biais : les défis d'une recherche personnalisée",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "Cette évolution soulève des défis importants, notamment en termes de désinformation et de biais. Si les moteurs de recherche personnalisent les résultats en fonction de vos préférences, comment garantir que vous êtes exposé à des points de vue différents et à des informations factuelles ?",
+                                        "Il est crucial de développer des algorithmes capables de détecter et de contrer la désinformation, de promouvoir la diversité des sources d'information, et de sensibiliser les utilisateurs aux risques de la polarisation.",
+                                        "De plus, il est important de se demander quel est le rôle des moteurs de recherche dans la formation de l'opinion publique. Ont-ils une responsabilité éthique de garantir que les informations qu'ils présentent sont fiables et impartiales ?"
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Vers une recherche collaborative et transparente : le rôle de la communauté",
+                                "content": {
+                                    "paragraphs": 3,
+                                    "include": [
+                                        "Pour relever ces défis, il est essentiel d'impliquer la communauté dans le processus de recherche. Des plateformes collaboratives comme Wikipédia montrent qu'il est possible de créer des sources d'information fiables et complètes grâce à la contribution de milliers de bénévoles.",
+                                        "Les moteurs de recherche pourraient s'inspirer de ce modèle, en permettant aux utilisateurs de signaler les informations erronées, de proposer des corrections, et de participer à la vérification des faits. Cela permettrait de créer un système plus transparent et plus responsable.",
+                                        "De plus, il est important de promouvoir l'éducation aux médias et à l'information, afin d'aider les utilisateurs à développer un esprit critique et à évaluer la fiabilité des sources d'information."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "conclusion": {
+                "paragraphs": 4,
+                "elements": [
+                    "Les modèles réflexifs IA représentent une avancée majeure dans le domaine de l'intelligence artificielle, promettant des applications révolutionnaires dans de nombreux secteurs.",
+                    "Bien que les défis éthiques et techniques restent importants, le potentiel de ces technologies pour accélérer l'innovation et résoudre des problèmes complexes est indéniable.",
+                    "L'avenir de la recherche sur internet est en train de se redéfinir, avec l'IA réflexive comme moteur de transformation. La collaboration entre chercheurs, entreprises et citoyens sera essentielle pour garantir que cette évolution bénéficie à tous.",
+                    "Alors, êtes-vous prêt à embrasser cette révolution silencieuse qui va transformer notre monde ? L'avenir est à portée de main, et il est temps de s'y préparer."
+                ],
+                "wordCount": "200-250"
+            },
+            "callToAction": {
+                "type": "NEWSLETTER",
+                "text": "Restez informé des dernières avancées en IA ! Inscrivez-vous à notre newsletter pour recevoir des mises à jour exclusives sur les modèles réflexifs et d'autres innovations en intelligence artificielle.",
+                "placement": "after_conclusion"
+            }
+        },
+        "contentGuidelines": {
+            "tone": "PROFESSIONAL",
+            "style": "INFORMATIVE",
+            "perspective": "THIRD_PERSON",
+            "keywordDensity": "1.5-2.5%",
+            "sentenceLength": "Moyenne de 15-20 mots, mélanger courtes et longues",
+            "paragraphLength": "3-5 phrases par paragraphe",
+            "totalWordCount": "8000",
+            "readabilityTarget": "Niveau universitaire",
+            "avoidedTerms": [
+                "complexe",
+                "difficile"
+            ],
+            "includedTerms": [
+                "innovation",
+                "potentiel"
+            ]
+        },
+        "mediaGuidelines": {
+            "featuredImage": {
+                "required": true,
+                "description": "Illustration conceptuelle d'un réseau neuronal réflexif avec des connexions dynamiques",
+                "altText": "Représentation visuelle d'un modèle réflexif IA"
+            },
+            "inlineImages": {
+                "count": "2",
+                "placement": "After each major section",
+                "captionStyle": "Descriptive with keyword when possible"
+            },
+            "videoEmbeds": {
+                "include": "NO"
+            }
+        },
+        "additionalElements": {
+            "internalLinks": {
+                "minimum": 2,
+                "placementGuidelines": "Include naturally within paragraph text"
+            },
+            "externalLinks": {
+                "minimum": 1,
+                "quality": "High domain authority sources only"
+            },
+            "statistics": {
+                "include": true,
+                "requirements": "Recent, cited properly, relevant to content"
+            },
+            "quotes": {
+                "include": "YES",
+                "sources": "Industry experts or recognized authorities"
+            },
+            "examples": {
+                "include": true,
+                "type": "Real-world, relatable to target audience"
+            },
+            "tables": {
+                "include": "NO"
+            }
+        },
+        "complianceChecklist": {
+            "factChecking": "Verify all factual claims",
+            "plagiarismFree": "100% original content",
+            "grammarProofed": "No spelling or grammatical errors",
+            "accessibilityCompliant": "Alt text for images, proper heading hierarchy",
+            "disclosures": "Include affiliate or sponsored content disclaimers if applicable"
+        }
+    
+}
