@@ -1,4 +1,12 @@
 {
+    "articleTemplate": {
+    "metadata": {
+      "type": "blog_post",
+      "category": "Intelligence Artificielle",
+      "targetAudience": "Chercheurs en IA, développeurs, data scientists, étudiants en informatique et en sciences cognitives, entrepreneurs tech, et professionnels de l'industrie technologique",
+      "intent": "Informer, éduquer et inspirer",
+      "contentGoal": "Expliquer en profondeur les modèles réflexifs d'IA, leur impact potentiel et les opportunités qu'ils offrent"
+    },
     
         "seo": {
             "primaryKeyword": "modèles réflexifs IA",
@@ -303,5 +311,5 @@
             "accessibilityCompliant": "Alt text for images, proper heading hierarchy",
             "disclosures": "Include affiliate or sponsored content disclaimers if applicable"
         }
-    
+    }
 }
