@@ -1,5 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+
+    experimental: {
+        appDir: 
+    },
     reactStrictMode: true,
     webpack(config) {
       config.resolve.fallback = { fs: false };
