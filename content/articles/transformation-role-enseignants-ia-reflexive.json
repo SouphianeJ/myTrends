@@ -1,4 +1,4 @@
-{
+{ "articleTemplate" : {
   "metadata": {
     "type": "blog_post",
     "category": "Intelligence Artificielle",
@@ -211,4 +211,4 @@
     "grammarProofed": "Validé par correcteur professionnel",
     "accessibilityCompliant": "Alt text fourni, structure hiérarchique claire"
   }
-}
+}}
